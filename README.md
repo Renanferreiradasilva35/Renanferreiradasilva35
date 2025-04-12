@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Renanferreiradasilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Renanferreiradasilva35/Renanferreiradasilva35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+•	👋 Olá, sou @Renanferreiradasilva
+	•	👀 Estou interessado em desenvolvimento web, mobile e inteligência artificial
+	•	🌱 Atualmente estou aprendendo JavaScript, Node.js, React e práticas de Clean Code
+	•	🤝 Estou procurando colaborar em projetos open source e desafios que envolvam soluções criativas
+	•	📫 Como entrar em contato comigo: [seu email ou LinkedIn aqui]
+	•	🙂 Pronomes: ele/dele
+	•	⚡ Curiosidade: Sou movido a desafios e adoro transformar ideias em soluções funcionais
